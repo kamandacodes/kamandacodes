@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+
+-->
 - 🔭 I’m currently working on a CMS created with Wagtail...
 - 🌱 I’m currently learning the Rust Language which I believe is going to be the systems language of the future...
 - 👯 I’m looking to collaborate on open source projects based on Python and JavaScript. I am particularly interested in Machine Learning...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me on Twitter, Telegram and Instagram @kamandacodes
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a cinematographer when I am not coding. It helps to give a colourful view to life :purple_heart:
--->
